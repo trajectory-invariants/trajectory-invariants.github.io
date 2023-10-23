@@ -1,5 +1,5 @@
 # Configuration
-baseURL: "https://robotgenskill.pages.gitlab.kuleuven.be/"
+baseURL: "https://robotgenskill.pages.gitlab.kuleuven.be/public_code/invariants_website/"
 title: "Invariants"
 
 enableRobotsTXT: true
