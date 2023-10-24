@@ -54,11 +54,11 @@ menu:
       weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 6
-      url: "https://gitlab.kuleuven.be/robotgenskill/public_code/invariants_website"
-      params:
-        icon: github
+#    - name: GitHub
+#      weight: 6
+#      url: "https://gitlab.kuleuven.be/robotgenskill/public_code/invariants_website"
+#      params:
+#        icon: github
 
   sidebar:
     - identifier: more

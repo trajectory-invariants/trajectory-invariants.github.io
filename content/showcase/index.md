@@ -1,6 +1,6 @@
 ---
 title: Showcase
-description: "Open source projects powered by Hextra."
+description: "Applications of invariant trajectory descriptors."
 toc: false
 layout: wide
 ---
@@ -8,7 +8,7 @@ layout: wide
 <div class="mt-4"></div>
 
 <p class="mb-12 text-center text-lg text-gray-500 dark:text-gray-400">
-Open source projects powered by Hextra.
+Applications of invariant trajectory descriptors.
 </p>
 
 {{< cards >}}
