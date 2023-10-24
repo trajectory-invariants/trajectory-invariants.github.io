@@ -29,14 +29,11 @@ To work locally with this project, you'll have to follow the steps below:
 
 This command generates the `public/` folder which holds the static HTML files of the website, while `hugo server` only keeps the generated files in working memory.
 
-Once you are satisfied with your local changes, you must commit and push the changes to GitLab.
+Once you are satisfied with your local website, you can commit and push the changes to GitLab to update the public website.
 
-Read more at Hugo's [documentation](https://gohugo.io/getting-started/).
+
 
 ## Technical background
 
-The website is built with [Hugo](https://gohugo.io) website using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/). Learn more about GitLab Pages at the [official documentation](https://docs.gitlab.com/ce/user/project/pages/).
-
-This project's static Pages are built by [GitLab CI/CD](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/),
-following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).
+The website is implemented with the [Hugo](https://gohugo.io) framework in combination with the [Hextra theme](https://github.com/imfing/hextra). The website is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).
 
