@@ -11,7 +11,12 @@ The website is intended to
 
 To work locally with this project, you'll have to follow the steps below:
 
-1. Git clone this repository.
+1. Clone this repository.
+
+```shell
+git clone git@gitlab.kuleuven.be:robotgenskill/public_code/invariants_website.git
+```
+
 1. Install Hugo. 
 
    - **Windows**: Download the binaries of the [latest release](https://github.com/gohugoio/hugo/releases/latest). Scroll down on this page and download `hugo_extended_0.XXX.X_windows-amd64.zip` where XXX.X is the number of the latest version. If you are on your work computer, make the following folder and unzip and move the package at that location: `C:\Workdir\Programs\Hugo\`. 
