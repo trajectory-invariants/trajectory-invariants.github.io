@@ -23,9 +23,9 @@ To work locally with this project, you'll have to follow the steps below:
 
    - **Ubuntu**: you can easily install Hugo through the terminal:
 
-   ```shell
-   sudo apt install hugo
-   ```
+      ```shell
+      sudo apt install hugo
+      ```
 
 1. Open a terminal (or `git bash`) and navigate to where you cloned this repository. 
 
