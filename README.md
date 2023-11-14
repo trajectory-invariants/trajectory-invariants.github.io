@@ -27,11 +27,13 @@ To work locally with this project, you'll have to follow the steps below:
    sudo apt install hugo
    ```
 
-1. Open a terminal (or `git bash`) and navigate to where you cloned this repository. If you are in Windows you need to add the Hugo folder to your path
+1. Open a terminal (or `git bash`) and navigate to where you cloned this repository. 
 
-   ```shell
-   PATH=$PATH:/C/Workdir/Programs/Hugo/hugo_extended_0.120.4_windows-amd64
-   ```
+      - If you are in Windows you need to add the Hugo folder to your path
+
+         ```shell
+         PATH=$PATH:/C/Workdir/Programs/Hugo/hugo_extended_0.120.4_windows-amd64
+         ```
 
 1. Generate the website with the following command:
 
