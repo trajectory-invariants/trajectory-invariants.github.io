@@ -13,9 +13,9 @@ To work locally with this project, you'll have to follow the steps below:
 
 1. Clone this repository.
 
-```shell
-git clone git@gitlab.kuleuven.be:robotgenskill/public_code/invariants_website.git
-```
+   ```shell
+   git clone git@gitlab.kuleuven.be:robotgenskill/public_code/invariants_website.git
+   ```
 
 1. Install Hugo. 
 
