@@ -19,7 +19,7 @@ To work locally with this project, you'll have to follow the steps below:
 
 1. Install Hugo. 
 
-   - **Windows**: Download the binaries of the [latest release](https://github.com/gohugoio/hugo/releases/latest). Scroll down on this page and download `hugo_extended_0.XXX.X_windows-amd64.zip` where XXX.X is the number of the latest version. If you are on your work computer, make the following folder and unzip and move the package at that location: `C:\Workdir\Programs\Hugo\`. 
+   - **Windows**: Download the binaries of the [latest release](https://github.com/gohugoio/hugo/releases/latest). Scroll down until you see `hugo_extended_0.XXX.X_windows-amd64.zip`, where XXX.X is the number of the latest version, and download the zip file. If you are on your work computer, make the following folder and unzip and move the package to that location: `C:\Workdir\Programs\Hugo\`. 
 
    - **Ubuntu**: you can easily install Hugo through the terminal:
 
