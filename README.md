@@ -47,15 +47,15 @@ To work locally with this project, you'll have to follow the steps below:
 
 1. Open a browser to view the website, e.g. at `http://localhost:1313/`
 1. Add or change content. The website will update automatically.
-1. Optional. Generate and write the HTML files of the website:
+1. (Optional) Generate and write the HTML files of the website:
 
    ```shell
    hugo
    ```
 
-This command generates the `public/` folder which holds the static HTML files of the website, while `hugo server` only keeps the generated files in working memory.
+   This command generates the `public/` folder which holds the static HTML files of the website, while `hugo server` only keeps the generated files in working memory. For the public website, this is done by GitLab Pages.
 
-Once you are satisfied with your local website, you can commit and push the changes to GitLab to update the public website.
+Once you are satisfied with the local website, you can commit and push the changes to GitLab to update the public website.
 
 ## Technical background
 
