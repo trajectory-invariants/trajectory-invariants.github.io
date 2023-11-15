@@ -21,10 +21,10 @@ To work locally with this project, you'll have to follow the steps below:
 
    - **Windows**: Download the binaries of the [latest release](https://github.com/gohugoio/hugo/releases/tag/v0.120.4). Scroll down until you see `hugo_extended_0.120.4_windows-amd64.zip`, and download the zip file. If you are on your work computer, make the following folder and unzip and move the package to this location: `C:\Workdir\Programs\Hugo\`. 
 
-   - **Ubuntu**: you can easily install Hugo through the terminal:
+   - **Ubuntu**: you can easily install the latest version of Hugo through the terminal:
 
       ```shell
-      sudo apt install hugo
+      sudo snap install hugo
       ```
 
 1. Open a terminal (or `git bash`) and navigate to where you cloned this repository. 
@@ -45,7 +45,7 @@ To work locally with this project, you'll have to follow the steps below:
    hugo server
    ```
 
-1. Open a browser to view the website, e.g. at `http://localhost:1313/`
+1. Open a browser to view the website, e.g. at `http://localhost:1313/public_code/invariants_website/`
 1. Add or change content. The website will update automatically.
 1. (Optional) Generate and write the HTML files of the website:
 
