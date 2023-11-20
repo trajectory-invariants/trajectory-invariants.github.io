@@ -61,3 +61,6 @@ Once you are satisfied with the local website, you can commit and push the chang
 
 The website is implemented with the [Hugo](https://gohugo.io) framework in combination with the [Hextra theme](https://github.com/imfing/hextra). The website is built using [GitLab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/) following the steps defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).
 
+## TODOs
+
+- logo

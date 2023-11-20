@@ -3,18 +3,20 @@ title: About
 toc: false
 ---
 
-Hextra is designed to be a simple, fast, and flexible theme for building modern static websites. It is especially well-suited for documentation websites but can also be used for various types of sites, such as blogs, portfolios, and more.
+Invariant trajectory descriptors are trajectory representations that have been made independent of reference frame (or viewpoint), reference points on the object, motion profile and/or scale. Invariant descriptors are defined using concepts from differential geometry, Lie group theory and screw theory.
 
-Hugo, like Jekyll, is a static site generator. What sets Hugo apart is that it is a single binary, making it easy to install and run on various platforms. It is also extremely fast and reliable, capable of rendering a site with thousands of pages in milliseconds.
+Invariant descriptors are used to construct coordinate-invariant trajectory models for different tasks. These trajectory models can be used to robustly recognize human motions in different contexts or to execute a human-demonstrated task on a robot. Thanks to the invariant properties, the models can be more easily generalized and extrapolated to different contexts compared to models based on trajectory coordinates that were recorded in a predefined reference frame. As a result, fewer demonstrations are required from the user to build generally valid models.
 
-Hextra is built with a mindset focused on having a minimal footprint. To get started, no extra dependencies like Node.js packages are required; all you need is a single YAML configuration file, along with your Markdown content. Thus, we can focus on writing quality content instead of setting up tooling.
+Our software offers the following features:
+- Definition and robust calculation of new invariant descriptors
+- Application of invariant descriptors to recognition and segmentation
+- Offline and online adaptation of invariant trajectory models to novel contexts
 
-## Credits
 
-Hextra cannot be built without the following tools and inspirations:
+## Acknowledgments
 
-- [Hugo](https://gohugo.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Heroicons](https://heroicons.com/)
-- [Nextra](https://nextra.vercel.app/)
-- [Next.js](https://nextjs.org/)
+The development of these software packages has been supported by the following projects and organization:
+
+- [ERC Advanced Grant Robotgenskill](https://robotgenskill.pages.gitlab.kuleuven.be/)
+- [FWO project GN...](https://fwo.be)
+
