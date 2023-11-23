@@ -3,21 +3,21 @@ title: Hextra Theme
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge >}}
+<!-- {{< hextra/hero-badge >}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
   <span>Free, open source</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
+{{< /hextra/hero-badge >}} -->
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:block hidden" />with Markdown and Hugo
+  Invariant Descriptors&nbsp;<br class="sm:block hidden" /> of Trajectories
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:block hidden" />for creating beautiful static websites
+  Software to support the use of invariant descriptors  &nbsp;<br class="sm:block hidden" /> for action representation, recognition and generation
 {{< /hextra/hero-subtitle >}}
 </div>
 

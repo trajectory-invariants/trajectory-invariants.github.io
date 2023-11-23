@@ -64,3 +64,4 @@ The website is implemented with the [Hugo](https://gohugo.io) framework in combi
 ## TODOs
 
 - logo
+- possibly register custom domain, see email Ronny Moreas: "Je kan inderdaad een custom domeinnaam laten registreren bij ons. Zie bijvoorbeeld https://ras.pages.gitlab.kuleuven.be/ras-dissemination/mynutia.com/ -> https://mynutia.com/. Dat kan eventueel ook onder het mech.kuleuven.be domein, dan zijn er geen DNS-registratiekosten."

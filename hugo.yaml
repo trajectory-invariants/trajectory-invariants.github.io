@@ -1,6 +1,6 @@
 # Configuration
 baseURL: "https://robotgenskill.pages.gitlab.kuleuven.be/public_code/invariants_website/"
-title: "Invariant trajectory descriptors"
+title: "invariant trajectory descriptors"
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -19,7 +19,7 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: Invariant trajectory descriptors
+    title: invariant trajectory descriptors
 
 theme: hextra
 
@@ -39,17 +39,17 @@ menu:
       pageRef: /about
       weight: 1    
     - identifier: documentation
-      name: Documentation
+      name: Docs
       pageRef: /docs
       weight: 2
-    - identifier: showcase
-      name: Showcase
-      pageRef: /showcase
-      weight: 3
-#    - identifier: blog
-#      name: Blog
-#      pageRef: /blog
-#      weight: 4
+# - identifier: showcase
+#   name: Showcase
+#   pageRef: /showcase
+#   weight: 3
+# - identifier: blog
+#   name: News
+#   pageRef: /blog
+#   weight: 4
     - name: Search
       weight: 5
       params:
@@ -66,10 +66,10 @@ menu:
       params:
         type: separator
       weight: 1
-#    - identifier: about
-#      name: "About"
-#      pageRef: "/about"
-#      weight: 2
+    - identifier: about
+      name: "About invariant descriptors"
+      pageRef: "/about"
+      weight: 2
     - identifier: robotgenskill
       name: "Robotgenskill project ↗"
       url: "https://gitlab.kuleuven.be/robotgenskill/"

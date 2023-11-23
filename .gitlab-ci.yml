@@ -18,10 +18,8 @@ variables:
 
 default:
   before_script:
-    - apk add --update --no-cache git #go
+    - apk add --update --no-cache git
     - git submodule update --init --recursive
-    #- hugo mod init gitlab.com/pages/hugo
-    #- hugo mod get -u github.com/theNewDynamic/gohugo-theme-ananke
 
 test:
   script:

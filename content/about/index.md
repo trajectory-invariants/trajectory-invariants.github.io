@@ -17,6 +17,6 @@ Our software offers the following features:
 
 The development of these software packages has been supported by the following projects and organization:
 
-- [ERC Advanced Grant Robotgenskill](https://robotgenskill.pages.gitlab.kuleuven.be/)
-- [FWO project GN...](https://fwo.be)
+- [ERC Advanced Grant 788298 (Robotgenskill)](https://robotgenskill.pages.gitlab.kuleuven.be/) of the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme.
+- [FWO project G0B6613](https://fwo.be) of the Research Foundation Flanders (FWO).
 
