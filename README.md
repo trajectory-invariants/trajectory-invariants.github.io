@@ -1,4 +1,4 @@
-This repository builds the invariants website at: https://robotgenskill.pages.gitlab.kuleuven.be/public_code/invariants_website
+This repository builds the invariants website at: [https://trajectory-invariants.github.io/](https://trajectory-invariants.github.io/)
 
 The website is intended to 
 - shortly explain the main features and use of the invariants
