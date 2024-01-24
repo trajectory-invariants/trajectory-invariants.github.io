@@ -1,6 +1,6 @@
 # Configuration
-baseURL: "https://robotgenskill.pages.gitlab.kuleuven.be/public_code/invariants_website/"
-title: "invariant trajectory descriptors"
+baseURL: "https://github.com/trajectory-invariants/trajectory-invariants.github.io"
+title: "Trajectory Invariants"
 
 enableRobotsTXT: true
 enableGitInfo: true
