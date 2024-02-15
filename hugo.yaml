@@ -1,5 +1,5 @@
 # Configuration
-baseURL: "https://github.com/trajectory-invariants/trajectory-invariants.github.io"
+baseURL: ""
 title: "Trajectory Invariants"
 
 enableRobotsTXT: true
@@ -7,7 +7,9 @@ enableGitInfo: true
 # enableEmoji: false
 hasCJKLanguage: false
 
-# googleAnalytics: G-XXXXXXXXXX
+# services:
+#   googleAnalytics:
+#     ID: G-MEASUREMENT_ID
 
 outputs:
   home: [HTML]
@@ -19,9 +21,10 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: invariant trajectory descriptors
+    title: Trajectory Invariants
 
 theme: hextra
+
 
 markup:
   goldmark:
@@ -76,7 +79,7 @@ menu:
       weight: 3
 
 params:
-  description: Software to support calculation of invariant trajectory descriptors and trajectory generation.
+  description: Python and Matlab software to support the calculation of invariant trajectory descriptors and trajectory generation.
 
   navbar:
     displayTitle: true
@@ -99,6 +102,7 @@ params:
     displayToggle: true
 
   footer:
+    enable: true
     displayCopyright: true
     displayPoweredBy: false
     width: normal
@@ -118,7 +122,11 @@ params:
 
   editURL:
     enable: true
-    base: "https://gitlab.kuleuven.be/robotgenskill/public_code/invariants_website/-/tree/master/content"
+    base: "https://github.com/trajectory-invariants/trajectory-invariants.github.io/tree/master/content"
+
+  blog:
+    list:
+      displayTags: true
 
   comments:
     enable: false
