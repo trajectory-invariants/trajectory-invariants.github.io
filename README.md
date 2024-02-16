@@ -26,6 +26,8 @@ To work locally, you'll have to follow the steps below:
 
       ```shell
       sudo snap install hugo
+      echo 'export PATH=$PATH:/snap/bin' >> ~/.bashrc
+      source ~/.bashrc
       ```
 
 1. Open a terminal in Linux (or `git bash` in Windows) and navigate to where you cloned this repository. 
