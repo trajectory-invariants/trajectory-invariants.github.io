@@ -25,7 +25,6 @@ languages:
 
 theme: hextra
 
-
 markup:
   goldmark:
     renderer:
@@ -79,7 +78,7 @@ menu:
       weight: 3
 
 params:
-  description: Python and Matlab software to support the calculation of invariant trajectory descriptors and trajectory generation.
+  description: Trajectory Invariants aims to provide Python and Matlab imrplementations to support the calculation of invariant trajectory descriptors and trajectory generation.
 
   navbar:
     displayTitle: true
@@ -104,7 +103,7 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: false
+    displayPoweredBy: true
     width: normal
 
   displayUpdatedDate: true

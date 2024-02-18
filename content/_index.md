@@ -1,18 +1,18 @@
 ---
-title: Hextra Theme
+title: Trajectory Invariants
 layout: hextra-home
 ---
 
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  Invariant Trajectory Descriptors &nbsp;<br class="sm:block hidden" /> 
+  Trajectory Invariants &nbsp;<br class="sm:block hidden" /> 
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Software packages to support the calculation and use of invariant descriptors  &nbsp;<br class="sm:block hidden" /> for action representation, recognition and generation
+  Software packages to support the calculation and use of coordinate-invariant representations  &nbsp;<br class="sm:block hidden" /> for trajectory analysis, trajectory recognition, trajectory generation, and trajectory prediction.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -20,7 +20,10 @@ layout: hextra-home
 {{< hextra/hero-button text="Get Started" link="docs" >}}
 </div>
 
+This software is offered under the [MIT License](license).
+
 <div class="mt-6"></div>
+
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
