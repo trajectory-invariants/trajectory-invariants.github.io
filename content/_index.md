@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Software packages to support the use of coordinate-invariant representations  &nbsp;<br class="sm:block hidden" /> for trajectory analysis, trajectory recognition, trajectory generation, and trajectory prediction.
+  Software to support the use of coordinate-invariant representations  &nbsp;<br class="sm:block hidden" /> for trajectory analysis, recognition, generation, and prediction.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -19,7 +19,7 @@ layout: hextra-home
 {{< hextra/hero-button text="Get Started" link="docs" >}}
 </div>
 
-This software is offered under an [<u>MIT License</u>](license_on_homepage).
+This software is offered with an [<u>MIT License</u>](license_on_homepage).
 
 <div class="mt-6">
 </div>
