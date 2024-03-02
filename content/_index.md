@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Software to support the use of coordinate-invariant representations  &nbsp;<br class="sm:block hidden" /> for trajectory analysis, recognition, generation, and prediction.
+  Software to support the use of invariant representations  &nbsp;<br class="sm:block hidden" /> for trajectory analysis, recognition, generation, and prediction.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -27,23 +27,56 @@ This software is offered with an [<u>MIT License</u>](license_on_homepage).
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Robust Numerical Calculation"
-    subtitle="Ensure noise-robust calculation using an optimal control-based formulation."
+    image="/images/traj-analysis.webp"
+    title="Trajectory analysis"
+    subtitle="Analyze the geometry of trajectories."
+    link="/docs"
+    class="md:aspect-[1.1/1]"
   >}}
   {{< hextra/feature-card
-    title="Matlab and Python"
-    subtitle="Both Matlab and Python implementations are available."
+    image="/images/traj-generation.webp"
+    title="Trajectory generation"
+    subtitle="Generate new trajectories in a shape-preserving way."
+    link="/docs"
+    class="md:aspect-[1.1/1]"
   >}}
   {{< hextra/feature-card
-    title="Frenet-Serret Invariants"
-    subtitle="Calculate curvature and torsion invariants together with the corresponding Frenet-Serret moving frames."
+    image="/images/traj-prediction.webp"
+    title="Trajectory prediction"
+    subtitle="Predict the remainder of a trajectory."
+    link="/docs"
+    class="md:aspect-[1.1/1]"
   >}}
   {{< hextra/feature-card
-    title="Trajectory Generation"
-    subtitle="Generate new trajectories from model invariants."
+    title="Python software"
+    subtitle="Python implementation of Trajectory Invariants."
+	link="docs/python"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Screw axis invariants"
-    subtitle="Estimate the motion of the screw axis."
+    title="Matlab software"
+    subtitle="Matlab implementation of Trajectory Invariants."
+    link="docs/matlab"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Vector Trajectory Invariants"
+    subtitle="Define Trajectory Invariants based on the Frenet-Serret formulas using curvature and torsion."
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(42,183,74,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Screw Trajectory Invariants"
+    subtitle="Define Trajectory Invariants based on the Instantaneous Screw Axis from screw theory."
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(42,183,74,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Many trajectory types"
+    subtitle="Support for motion trajectories (translation, rotation, pose, twist) and for force trajectories (force, moment, wrench)."
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(42,50,154,0.15),hsla(0,0%,100%,0));"
+  >}}
+  {{< hextra/feature-card
+    title="Numerical optimization"
+    subtitle="Trajectory estimation and generation using Trajectory Invariants is achieved using Optimal Control."
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(42,50,154,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
