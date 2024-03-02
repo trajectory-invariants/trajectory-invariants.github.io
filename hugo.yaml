@@ -56,11 +56,11 @@ menu:
       weight: 5
       params:
         type: search
-#    - name: GitHub
-#      weight: 6
-#      url: "https://gitlab.kuleuven.be/robotgenskill/public_code/invariants_website"
-#      params:
-#        icon: github
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/trajectory-invariants"
+      params:
+        icon: github
 
   sidebar:
     - identifier: more
@@ -78,7 +78,7 @@ menu:
       weight: 3
 
 params:
-  description: Trajectory Invariants aims to provide Python and Matlab imrplementations to support the calculation of invariant trajectory descriptors and trajectory generation.
+  description: Trajectory Invariants aims to provide Python and Matlab software to support the calculation of invariant trajectory descriptors and trajectory generation.
 
   navbar:
     displayTitle: true

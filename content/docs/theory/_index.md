@@ -2,7 +2,7 @@
 linkTitle: "Theoretical Background"
 title: Theoretical background
 sidebar:
-  open: true
+  open: false
 prev: docs
 ---
 
