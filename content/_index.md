@@ -76,7 +76,7 @@ This software is offered with an [<u>MIT License</u>](license_on_homepage).
   >}}
   {{< hextra/feature-card
     title="Numerical optimization"
-    subtitle="Trajectory estimation and generation using Trajectory Invariants is achieved using Optimal Control."
+    subtitle="Achieve trajectory estimation and generation with Trajectory Invariants using Optimal Control."
     style="background: radial-gradient(ellipse at 50% 80%,rgba(42,50,154,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
