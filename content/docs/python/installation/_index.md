@@ -40,6 +40,6 @@ import invariants_py
 After installation, you can proceed with the Quickstart guide or you can choose to first install the optional Fatrop solver (only in Linux).
 
 {{< cards >}}
-  {{< card link="../python/quickstart" title="Quickstart guide" icon="document-duplicate" >}}
-  {{< card link="../python/installation/installation-fatrop" title="(Optional) Fatrop installation" icon="plus" >}}
+  {{< card link="../quickstart" title="Quickstart guide" icon="document-duplicate" >}}
+  {{< card link="../installation/installation-fatrop" title="(Optional) Fatrop installation" icon="plus" >}}
 {{< /cards >}}

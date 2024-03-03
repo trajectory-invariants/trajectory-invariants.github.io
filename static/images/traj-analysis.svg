@@ -7,7 +7,7 @@
    viewBox="0 0 85.557747 58.351501"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="traj-analysis.svg"
    inkscape:export-filename="traj-analysis.webp"
    inkscape:export-xdpi="97.968918"
@@ -29,8 +29,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.3408131"
-     inkscape:cx="117.05334"
-     inkscape:cy="124.31578"
+     inkscape:cx="117.26694"
+     inkscape:cy="158.70554"
      inkscape:window-width="1904"
      inkscape:window-height="1041"
      inkscape:window-x="0"
@@ -66,11 +66,7 @@
          offset="0"
          id="stop4791" />
       <stop
-         style="stop-color:#00bf15;stop-opacity:1;"
-         offset="0.10566837"
-         id="stop4807" />
-      <stop
-         style="stop-color:#05460c;stop-opacity:1;"
+         style="stop-color:#626262;stop-opacity:1;"
          offset="0.25803059"
          id="stop4813" />
       <stop
@@ -78,7 +74,7 @@
          offset="0.43353882"
          id="stop4799" />
       <stop
-         style="stop-color:#022006;stop-opacity:1;"
+         style="stop-color:#434343;stop-opacity:1;"
          offset="0.61225629"
          id="stop4803" />
       <stop
@@ -86,7 +82,7 @@
          offset="0.74674237"
          id="stop4811" />
       <stop
-         style="stop-color:#003506;stop-opacity:1;"
+         style="stop-color:#434643;stop-opacity:1;"
          offset="0.84821427"
          id="stop4805" />
       <stop
@@ -237,19 +233,19 @@
        id="rect5627-2"
        width="7.4352689"
        height="8.7916346"
-       x="111.35542"
-       y="53.863838"
+       x="111.4062"
+       y="53.964821"
        rx="0.75291586"
        transform="rotate(26.69508)" />
     <circle
        style="opacity:0.749186;fill:#57ff66;fill-opacity:0.32;stroke:#009134;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.850909"
        id="path6047-03"
-       cx="115.07449"
-       cy="58.333374"
+       cx="115.12527"
+       cy="58.434357"
        r="1.1589074"
        transform="rotate(26.69508)" />
     <rect
-       style="opacity:0.749186;fill:#57ff66;fill-opacity:0.32;stroke:#009134;stroke-width:0.572624;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.850909"
+       style="opacity:0.749186;fill:#54ff64;fill-opacity:0.23921569;stroke:#009134;stroke-width:0.572624;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.850909"
        id="rect5627-1"
        width="7.4352689"
        height="8.7916346"

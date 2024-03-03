@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Software to support the use of invariant representations  &nbsp;<br class="sm:block hidden" /> for trajectory analysis, recognition, generation, and prediction.
+  Python and Matlab packages to support the use of invariant trajectory representations &nbsp;<br class="sm:block hidden" /> for trajectory analysis, recognition, generation, and prediction.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -24,28 +24,24 @@ This software is offered with an [<u>MIT License</u>](license_on_homepage).
 <div class="mt-6">
 </div>
 
-
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     image="/images/traj-analysis.webp"
     title="Trajectory analysis"
     subtitle="Analyze the geometry of trajectories."
-    link="/docs"
-    class="md:aspect-[1.1/1]"
+	class="md:aspect-[1.1/1] max-lg:min-h-[340px]"
   >}}
   {{< hextra/feature-card
     image="/images/traj-generation.webp"
     title="Trajectory generation"
     subtitle="Generate new trajectories in a shape-preserving way."
-    link="/docs"
-    class="md:aspect-[1.1/1]"
+	class="md:aspect-[1.1/1] max-lg:min-h-[340px]"
   >}}
   {{< hextra/feature-card
     image="/images/traj-prediction.webp"
     title="Trajectory prediction"
     subtitle="Predict the remainder of a trajectory."
-    link="/docs"
-    class="md:aspect-[1.1/1]"
+	class="md:aspect-[1.1/1] max-lg:min-h-[340px]"
   >}}
   {{< hextra/feature-card
     title="Python software"
@@ -60,23 +56,23 @@ This software is offered with an [<u>MIT License</u>](license_on_homepage).
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Vector Trajectory Invariants"
-    subtitle="Define Trajectory Invariants based on the Frenet-Serret formulas using curvature and torsion."
+    title="Vector trajectory invariants"
+    subtitle="Trajectory Invariants based on the Frenet-Serret formulas using curvature and torsion."
     style="background: radial-gradient(ellipse at 50% 80%,rgba(42,183,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Screw Trajectory Invariants"
-    subtitle="Define Trajectory Invariants based on the Instantaneous Screw Axis from screw theory."
+    title="Screw trajectory invariants"
+    subtitle="Trajectory Invariants based on the Instantaneous Screw Axis using screw theory."
     style="background: radial-gradient(ellipse at 50% 80%,rgba(42,183,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Many trajectory types"
+    title="Motion and force trajectories"
     subtitle="Support for motion trajectories (translation, rotation, pose, twist) and for force trajectories (force, moment, wrench)."
     style="background: radial-gradient(ellipse at 50% 80%,rgba(42,50,154,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Numerical optimization"
-    subtitle="Achieve trajectory estimation and generation with Trajectory Invariants using Optimal Control."
+    title="Geometric optimal control"
+    subtitle="Trajectory estimation and generation problems are implemented using Geometric Optimal Control."
     style="background: radial-gradient(ellipse at 50% 80%,rgba(42,50,154,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
