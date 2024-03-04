@@ -62,7 +62,7 @@ This software is offered with an [<u>MIT License</u>](license_on_homepage).
   >}}
   {{< hextra/feature-card
     title="Screw trajectory invariants"
-    subtitle="Trajectory Invariants based on the Instantaneous Screw Axis using screw theory."
+    subtitle="Trajectory Invariants based on the Instantaneous Screw Axis in screw theory."
     style="background: radial-gradient(ellipse at 50% 80%,rgba(42,183,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
