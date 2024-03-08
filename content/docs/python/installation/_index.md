@@ -28,8 +28,10 @@ Install the Python package in your Python environment:
 
 ```shell
 cd invariants_py
-pip install .
+pip install -e .
 ```
+
+If the installation fails, make sure you have the most recent versions of pip and setuptools using `pip install --upgrade pip setuptools`.
 
 If the installation is successful, you should be able to run the following command in Python:
 
