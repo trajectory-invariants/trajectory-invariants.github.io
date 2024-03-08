@@ -28,7 +28,7 @@ Install the Python package in your Python environment:
 
 ```shell
 cd invariants_py
-python -m pip install -e .
+pip install .
 ```
 
 If the installation is successful, you should be able to run the following command in Python:
