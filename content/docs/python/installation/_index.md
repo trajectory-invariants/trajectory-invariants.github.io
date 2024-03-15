@@ -18,6 +18,11 @@ On Linux, `git` and `Python` are pre-installed.
 
 Open a terminal (e.g. the default terminal in Linux or `Anaconda Powershell Prompt` in Windows).
 
+Make sure the latest version of `pip` is installed:
+```shell
+pip install --upgrade pip
+```
+
 Navigate to a suitable directory and clone the Git repository of [invariants-py](https://github.com/trajectory-invariants/invariants_py):
 
 ```shell
@@ -30,8 +35,6 @@ Install the Python package in your Python environment:
 cd invariants_py
 pip install -e .
 ```
-
-If the installation fails, make sure you have the most recent versions of pip and setuptools using `pip install --upgrade pip setuptools`.
 
 If the installation is successful, you should be able to run the following command in Python:
 
