@@ -18,7 +18,6 @@ IMPORTANT --- A stable release of Fatrop is currently only available within the 
 To proceed with the installation of Fatrop, clone the following repository:    
 
 ```shell
-cd ..
 git clone https://github.com/meco-group/fatrop.git --recursive
 cd fatrop
 ```
