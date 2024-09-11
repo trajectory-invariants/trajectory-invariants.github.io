@@ -3,17 +3,28 @@ title: Trajectory Invariants
 layout: hextra-home
 ---
 
-<div class="mt-6 mb-6">
+
+
+<p align="center">
+  <img src="https://trajectory-invariants.github.io/images/logo-trajectory-invariants.png" alt="Logo Trajectory Invariants" title="Trajectory Invariants" width="500">
+</p>
+
+<div class="mt-6">
+</div>
+
+<!-- <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
   Trajectory Invariants &nbsp;<br class="sm:block hidden" /> 
 {{< /hextra/hero-headline >}}
-</div>
+</div> -->
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
   Python and Matlab packages to support the use of invariant trajectory representations &nbsp;<br class="sm:block hidden" /> for trajectory analysis, recognition, generation, and prediction.
 {{< /hextra/hero-subtitle >}}
 </div>
+
+
 
 <div class="mb-6">
 {{< hextra/hero-button text="Get Started" link="docs" >}}
