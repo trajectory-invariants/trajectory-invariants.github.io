@@ -1,5 +1,5 @@
 # Configuration
-baseURL: ""
+baseURL: "https://trajectory-invariants.github.io/"
 title: "Trajectory Invariants"
 
 enableRobotsTXT: true
